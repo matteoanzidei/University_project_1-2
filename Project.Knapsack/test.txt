@@ -1,0 +1,7 @@
+[COMBINATIONS]    [VALUES]    [RUNTIME]    [TRUCK PROFIT]
+     [A]        [A:1 B:2 C:3]     [1121]            [64]
+     [A-B]      [A:1 B:2 C:3]     [2106]            [86]
+     [A-B-C]    [A:1 B:2 C:3]     [1018]            [121]
+     [A-B-C]    [A:1 B:2 C:3]     [1022]            [121]
+     [A-B-C]   [A:2 B:1 C:3]     [1026]            [93]
+     [A-B-C]    [A:3 B:2 C:1]     [3096]            [86]
